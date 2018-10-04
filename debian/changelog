@@ -1,3 +1,9 @@
+zero-lliurex-adobereader (0.78) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 04 Oct 2018 12:13:22 +0200
+
 zero-lliurex-adobereader (0.68) xenial; urgency=medium
 
   * Implemented changes to use EPI
