@@ -11,10 +11,4 @@
 
 %:
 	dh $@  --with llxsrc,zero
-	
-	
-override_dh_install:
-
-	dllxh_install
-	dh_install
 
