@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component type="desktop-application">
+<id>zero-lliurex-adobereader</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>zero-lliurex-adobereader</name>
+<name xml:lang="es">Instalador de Adobe Reader</name>
+<name xml:lang="ca_ES.UTF-8@valencia">Instal·lador de l'Adobe Reader</name>
+<name xml:lang="ca_ES@valencia">Instal·lador de l'Adobe Reader</name>
+<name xml:lang="ca_ES">Instal·lador de l'Adobe Reader</name>
+<summary>PDF reader</summary>
+<summary xml:lang="es">Un lector de ficheros PDF</summary>
+<summary xml:lang="ca_ES.UTF-8@valencia">Un lector de fitxers PDF</summary>
+<summary xml:lang="ca_ES@valencia">Un lector de fitxers PDF</summary>
+<summary xml:lang="ca_ES">Un lector de fitxers PDF</summary>
+<description>
+<p>Adobe Reader installer</p>
+<p xml:lang="es">Adobe Reader es el software estándar gratuito más utilizado en todo el mundo para ver, imprimir y añadir comentarios a los archivos PDF con total seguridad. Es el único visor de PDF que puede abrir e interaccionar con todos los tipos de contenido de PDF, incluidos los formularios y los contenidos multimedia.</p>
+<p xml:lang="ca_ES.UTF-8@valencia">Adobe Reader és el programari gratuït estàndard més utilitzat en tot el món per llegir, imprimir i afegir comentaris als fitxers PDF amb total seguretat. És l'únic visor de PDF Que pot obrir i interaccionar amb tots els tipus de continguts de PDF, inclosos els formularis i els continguts multimèdia.</p>
+<p xml:lang="ca_ES@valencia">Adobe Reader és el programari gratuït estàndard més utilitzat en tot el món per llegir, imprimir i afegir comentaris als fitxers PDF amb total seguretat. És l'únic visor de PDF Que pot obrir i interaccionar amb tots els tipus de continguts de PDF, inclosos els formularis i els continguts multimèdia.</p>
+<p xml:lang="ca_ES">Adobe Reader és el programari gratuït estàndard més utilitzat en tot el món per llegir, imprimir i afegir comentaris als fitxers PDF amb total seguretat. És l'únic visor de PDF Que pot obrir i interaccionar amb tots els tipus de continguts de PDF, inclosos els formularis i els continguts multimèdia.</p>
+</description>
+<categories>
+<category>Lliurex</category>
+<category>Zomando</category>
+<category>Utility</category>
+</categories>
+<icon type="cached">adobereader</icon>
+
+<keywords>
+<keyword>zero</keyword>
+<keyword>lliurex</keyword>
+<keyword>adobereader</keyword>
+<keyword>adobe</keyword>
+<keyword>acrobat</keyword>
+<keyword>zero-lliurex-adobereader</keyword>
+<keyword>Zomando</keyword>
+<keyword>pdf</keyword>
+<keyword>viewer</keyword>
+</keywords>
+<keywords xml:lang="es">
+<keyword>Instalador</keyword>
+<keyword>Adobe</keyword>
+<keyword>Reader</keyword>
+<keyword>Zomando</keyword>
+<keyword>visor</keyword>
+</keywords>
+<keywords xml:lang="ca_ES.UTF-8@valencia">
+<keyword>Instal·lador</keyword>
+<keyword>Adobe</keyword>
+<keyword>Zomando</keyword>
+<keyword>visor</keyword>
+</keywords>
+<keywords xml:lang="ca_ES@valencia">
+<keyword>Zomando</keyword>
+<keyword>visor</keyword>
+</keywords>
+<keywords xml:lang="ca_ES">
+<keyword>Zomando</keyword>
+<keyword>visor</keyword>
+
+</keywords>
+</component>
