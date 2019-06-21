@@ -1,3 +1,9 @@
+zero-lliurex-adobereader (0.80) bionic; urgency=medium
+
+  * Added [trusted=yes] in canonical repository
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 21 Jun 2019 14:35:39 +0200
+
 zero-lliurex-adobereader (0.79) bionic; urgency=medium
 
   * Changed adm group by sudo 
