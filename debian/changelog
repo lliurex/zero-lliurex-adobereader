@@ -1,3 +1,9 @@
+zero-lliurex-adobereader (0.81) bionic; urgency=medium
+
+  * Added custom icon to show in epi
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 07 Jul 2020 10:41:17 +0200
+
 zero-lliurex-adobereader (0.80) bionic; urgency=medium
 
   * Added [trusted=yes] in canonical repository
