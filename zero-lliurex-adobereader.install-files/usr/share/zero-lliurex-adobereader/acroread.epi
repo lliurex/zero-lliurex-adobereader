@@ -1,8 +1,9 @@
 {
 	"type":"apt",
-	"pkg_list": [{"name":"acroread","key_store":"zero-lliurex-adobereader"}],
+	"pkg_list": [{"name":"acroread","key_store":"zero-lliurex-adobereader","custom_icon":"acroread.svg"}],
 	"repository": [{"url":"deb [trusted=yes] http://archive.canonical.com/ precise partner"}], 
 	"script": {"name":"/usr/share/zero-lliurex-adobereader/acroread_script","remove":true},
+	"custom_icon_path":"/usr/share/zero-lliurex-adobereader/",
 	"force32":true,
 	"zomando":"zero-lliurex-adobereader"
 	
