@@ -1,14 +1,30 @@
 #!/bin/bash
 
+ACROREAD_PATH_DIR="/tmp/acroread"
+ACROREAD_PATH="/tmp/acroread/AdbeRdr9.5.5-1_i386linux_enu.deb"
 
 ACTION="$1"
 
 case $ACTION in
 
+	preInstall)
+			echo "Launching installation wizard...installing dependences:"
+			apt update
+			for Item in "libxml2:i386" "libcanberra-gtk-module:i386" "gtk2-engines-murrine:i386" "libatk-adaptor:i386"; do
+				apt install -y $Item
+				TEST=$( dpkg-query -s $Item 2> /dev/null| grep Status | cut -d " " -f 4 )
+				if [ "$TEST" != 'installed' ];then
+					echo "Problem to install: $Item"
+					echo "Contact with LinuX Team to solve this problem, www.lliurex.net"
+					exit 1
+				fi
+			done
+
+	;;
 	remove)
 
-		apt-get remove -y acroread-bin
-		TEST=$( dpkg-query -s  acroread-bin 2> /dev/null| grep Status | cut -d " " -f 4 )
+		apt-get remove -y adobereader-enu
+		TEST=$( dpkg-query -s  adobereader-enu 2> /dev/null| grep Status | cut -d " " -f 4 )
 		if [ "$TEST" == 'installed' ];then
 			exit 1
 		fi
