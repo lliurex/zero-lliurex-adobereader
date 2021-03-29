@@ -1,0 +1,125 @@
+zero-lliurex-adobereader (0.82) bionic; urgency=medium
+
+  * Updated to use AdobeReader emu
+  
+ -- Daniel Duran <daduve@gmail.com>  Wed, 20 Jan 2021 20:43:19 +0200
+
+zero-lliurex-adobereader (0.81) bionic; urgency=medium
+
+  * Added custom icon to show in epi
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 07 Jul 2020 10:41:17 +0200
+
+zero-lliurex-adobereader (0.80) bionic; urgency=medium
+
+  * Added [trusted=yes] in canonical repository
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 21 Jun 2019 14:35:39 +0200
+
+zero-lliurex-adobereader (0.79) bionic; urgency=medium
+
+  * Changed adm group by sudo 
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 05 Mar 2019 15:37:50 +0100
+
+zero-lliurex-adobereader (0.78) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 04 Oct 2018 12:13:22 +0200
+
+zero-lliurex-adobereader (0.68) xenial; urgency=medium
+
+  * Implemented changes to use EPI
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 27 Apr 2018 11:50:56 +0200
+ 
+zero-lliurex-adobereader (0.67-lliurex3) xenial; urgency=medium
+
+  * Removed deprecated locale
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 22 Jun 2017 09:18:38 +0200
+
+zero-lliurex-adobereader (0.67-lliurex2) xenial; urgency=medium
+
+  * Fixed wrong icon path in fake desktop
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 01 Jun 2017 13:06:38 +0200
+
+zero-lliurex-adobereader (0.67-lliurex1) xenial; urgency=medium
+
+  * Added metainfo
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 01 Jun 2017 10:13:11 +0200
+
+zero-lliurex-adobereader (0.67) xenial; urgency=medium
+
+  * Updated depends (llxcfg-runtime)
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 31 Mar 2016 13:20:50 +0200
+
+zero-lliurex-adobereader (0.64) trusty; urgency=high
+
+  * Upgrading to new LliureX release 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Mon, 01 Feb 2016 17:13:28 +0100
+
+zero-lliurex-adobereader (0.64) trusty; urgency=high
+
+  * Remove obsolete sourceslist 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Fri, 29 Jan 2016 12:46:39 +0100
+
+zero-lliurex-adobereader (0.63) trusty; urgency=high
+
+  * Add 64 bits supported 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Fri, 29 Jan 2016 12:19:27 +0100
+
+zero-lliurex-adobereader (0.62) trusty; urgency=high
+
+  * Updated translations
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Mon, 25 May 2015 12:59:48 +0200
+
+zero-lliurex-adobereader (0.61) trusty; urgency=high
+
+  * bug fixed in net down 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Mon, 20 Apr 2015 09:16:37 +0200
+
+zero-lliurex-adobereader (0.6) trusty; urgency=high
+
+  * Bug fixed in zmds
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Wed, 25 Mar 2015 17:07:02 +0100
+
+zero-lliurex-adobereader (0.5) trusty; urgency=medium
+
+  * Upgrading for trusty 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Mon, 19 Jan 2015 15:56:32 +0100
+
+zero-lliurex-adobereader (0.4) precise; urgency=low
+
+  * banner redered from source svg 
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Wed, 18 Jun 2014 14:27:37 +0200
+
+zero-lliurex-adobereader (0.3) precise; urgency=low
+
+  * Fixed zmd and app 
+
+ -- Jaime Munyoz Fayos <munyoz_jaifay@gva.es>  Mon, 03 Mar 2014 12:53:47 +0100
+
+zero-lliurex-adobereader (0.2) precise; urgency=low
+
+  * New zero-center version 
+
+ -- Jaime Munyoz Fayos <munyoz_jaifay@gva.es>  Mon, 03 Mar 2014 11:56:40 +0100
+
+zero-lliurex-adobereader (0.1) precise; urgency=low
+
+  * Initial release.
+
+ -- Jaime Munyoz Fayos <munyoz_jaifay@gva.es>  Thu, 12 Sep 2013 08:54:47 +0200
