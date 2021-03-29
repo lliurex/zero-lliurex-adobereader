@@ -1,3 +1,9 @@
+zero-lliurex-adobereader (0.82) bionic; urgency=medium
+
+  * Updated to use AdobeReader emu
+  
+ -- Daniel Duran <daduve@gmail.com>  Wed, 20 Jan 2021 20:43:19 +0200
+
 zero-lliurex-adobereader (0.81) bionic; urgency=medium
 
   * Added custom icon to show in epi
