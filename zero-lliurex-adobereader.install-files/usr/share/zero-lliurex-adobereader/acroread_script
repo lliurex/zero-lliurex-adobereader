@@ -9,6 +9,7 @@ case $ACTION in
 
 	preInstall)
 			echo "Launching installation wizard...installing dependences:"
+			dpkg --add-architecture i386
 			apt update
 			for Item in "libxml2:i386" "libcanberra-gtk-module:i386" "gtk2-engines-murrine:i386" "libatk-adaptor:i386"; do
 				apt install -y $Item
