@@ -1,3 +1,9 @@
+zero-lliurex-adobereader (0.92.2) focal; urgency=medium
+
+  * Fixed zero app file
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 25 May 2021 17:28:12 +0200
+
 zero-lliurex-adobereader (0.92.1) focal; urgency=medium
 
   * Fixed epi script
