@@ -1,10 +1,12 @@
 Name=zero-lliurex-adobereader
 Name[es]=Instalador de Adobe Reader
+Name[qcv]=Instal·lador de l'Adobe Reader
 Name[ca@valencia]=Instal·lador de l'Adobe Reader
 Name[ca_ES@valencia]=Instal·lador de l'Adobe Reader
 Name[ca_ES]=Instal·lador de l'Adobe Reader
 Comment=Adobe Reader installer
 Comment[es]=Instalador de Adobe Reader
+Comment[qcv]=Un lector de fitxers PDF
 Comment[ca@valencia]=Un lector de fitxers PDF
 Comment[ca_ES@valencia]=Un lector de fitxers PDF
 Comment[ca_ES]=Un lector de fitxers PDF
