@@ -11,7 +11,7 @@ case $ACTION in
 			echo "Launching installation wizard...installing dependences:"
 			dpkg --add-architecture i386
 			apt update
-			for Item in "libxml2:i386" "libcanberra-gtk-module:i386" "gtk2-engines-murrine:i386" "libatk-adaptor:i386"; do
+			for Item in "libxml2:i386" "libcanberra-gtk-module:i386" "gtk2-engines-murrine:i386" "libatk-adaptor:i386" "libgdk-pixbuf-xlib-2.0-0:i386"; do
 				apt install -y $Item
 				TEST=$( dpkg-query -s $Item 2> /dev/null| grep Status | cut -d " " -f 4 )
 				if [ "$TEST" != 'installed' ];then
