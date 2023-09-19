@@ -1,3 +1,9 @@
+zero-lliurex-adobereader (0.102.4) jammy; urgency=medium
+
+  * Fixed ubuntu repos in epi file
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 19 Sep 2023 13:48:39 +0200
+
 zero-lliurex-adobereader (0.102.3) jammy; urgency=medium
 
   * Initial release for Jammy
