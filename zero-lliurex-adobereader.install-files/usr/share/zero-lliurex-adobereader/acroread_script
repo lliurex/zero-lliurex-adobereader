@@ -22,6 +22,11 @@ case $ACTION in
 			done
 
 	;;
+	postInstall)
+			echo "Intalling MsOfficefonts in adobe reader....please wait"
+			apt install -y ttf-mscorefonts-installer
+			cp /usr/share/fonts/truetype/msttcorefonts/* /opt/Adobe/Reader9/Resource/Font/
+	;;
 	remove)
 
 		apt-get remove -y adobereader-enu
