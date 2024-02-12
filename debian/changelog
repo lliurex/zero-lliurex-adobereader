@@ -1,3 +1,9 @@
+zero-lliurex-adobereader (0.102.6) jammy; urgency=medium
+
+  * Fixed installation of MSCoreFonts
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 12 Feb 2024 14:52:01 +0100
+
 zero-lliurex-adobereader (0.102.5) jammy; urgency=medium
 
   * Adding MsFonts to Adobe Reader.
