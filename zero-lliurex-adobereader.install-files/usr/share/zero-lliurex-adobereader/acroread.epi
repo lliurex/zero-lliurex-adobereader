@@ -5,6 +5,7 @@
 	"script": {"name":"/usr/share/zero-lliurex-adobereader/acroread_script","remove":true},
 	"custom_icon_path":"/usr/share/zero-lliurex-adobereader/",
 	"force32":true,
+	"required_x:true,
 	"zomando":"zero-lliurex-adobereader"
 	
 	}

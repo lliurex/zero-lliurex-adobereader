@@ -24,8 +24,10 @@ case $ACTION in
 	;;
 	postInstall)
 			echo "Intalling MsOfficefonts in adobe reader....please wait"
-			apt install -y ttf-mscorefonts-installer
-			cp /usr/share/fonts/truetype/msttcorefonts/* /opt/Adobe/Reader9/Resource/Font/
+			LANG=C LANGUAGE=en DEBIAN_FRONTEND=kde apt install -y ttf-mscorefonts-installer
+			if [ -d /usr/share/fonts/truetype/msttcorefonts ];then
+				cp /usr/share/fonts/truetype/msttcorefonts/* /opt/Adobe/Reader9/Resource/Font/
+			fi
 	;;
 	remove)
 
