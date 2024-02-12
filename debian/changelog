@@ -1,3 +1,9 @@
+zero-lliurex-adobereader (0.92.5) focal; urgency=medium
+
+  * Fixed installation of MsCoreFonts.
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 12 Feb 2024 14:47:54 +0100
+
 zero-lliurex-adobereader (0.92.4) focal; urgency=medium
 
   * Adding MsCoreFonts to adobe reader.
