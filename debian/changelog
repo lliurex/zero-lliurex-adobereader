@@ -1,3 +1,9 @@
+zero-lliurex-adobereader (0.102.7) jammy; urgency=medium
+
+  * Added libnss-sss:i386 to fix bug with CDC users
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 08 Nov 2024 09:16:50 +0100
+
 zero-lliurex-adobereader (0.102.6) jammy; urgency=medium
 
   * Fixed installation of MSCoreFonts
