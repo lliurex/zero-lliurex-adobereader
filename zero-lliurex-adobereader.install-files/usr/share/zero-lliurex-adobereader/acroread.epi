@@ -1,7 +1,7 @@
 {
 	"type":"mix",
-	"pkg_list":[{"name":"adobereader-enu","version":{"32b":"AdbeRdr9.5.5-1_i386linux_enu.deb"},"key_store":"zero-lliurex-adobereader","url_download":"http://ardownload.adobe.com/pub/adobe/reader/unix/9.x/9.5.1/enu/AdbeRdr9.5.1-1_i386linux_enu.deb","custom_icon":"acroread.svg","custom_name":"Adobe Reader", "type":"deb"}],
-	"repository": [{"url":"deb http://archive.ubuntu.com/ubuntu/ jammy main multiverse restricted universe"},{"url":"deb http://archive.ubuntu.com/ubuntu/ jammy-updates main multiverse restricted universe"}], 
+	"pkg_list":[{"name":"adobereader-enu","version":{"32b":"AdbeRdr9.5.1-1_i386linux_enu.deb"},"key_store":"zero-lliurex-adobereader","url_download":"http://ardownload.adobe.com/pub/adobe/reader/unix/9.x/9.5.1/enu/","custom_icon":"acroread.svg","custom_name":"Adobe Reader", "type":"deb"}],
+	"repository": [{"url":"deb http://archive.ubuntu.com/ubuntu/ noble main multiverse restricted universe"},{"url":"deb http://archive.ubuntu.com/ubuntu/ noble-updates main multiverse restricted universe"}], 
 	"script": {"name":"/usr/share/zero-lliurex-adobereader/acroread_script","remove":true},
 	"custom_icon_path":"/usr/share/zero-lliurex-adobereader/",
 	"force32":true,
