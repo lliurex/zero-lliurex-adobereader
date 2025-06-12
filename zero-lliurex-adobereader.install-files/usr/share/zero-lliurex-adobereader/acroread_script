@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ACROREAD_PATH_DIR="/tmp/acroread"
-ACROREAD_PATH="/tmp/acroread/AdbeRdr9.5.5-1_i386linux_enu.deb"
+ACROREAD_PATH="/tmp/acroread/AdbeRdr9.5.1-1_i386linux_enu.deb"
 
 ACTION="$1"
 
